@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 
-- 🤖 I am a first-year Ph.D. student interested in embodied AI and robotic manipulation
-- 🔍 Interested in building physical AI system for real-world interaction
+* 🤖 Ph.D. student at CUHK-Shenzhen
+* 🦾 Researching embodied AI, robot manipulation, and world models
+* 🌍 Building generalizable physical AI systems for real-world interaction
+
 
 <!--
 **RobbinW/RobbinW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
